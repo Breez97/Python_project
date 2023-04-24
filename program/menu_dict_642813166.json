@@ -1,0 +1,35 @@
+{
+    "Breakfast": {
+        "Calories": "625 Calories",
+        "Dishes": {
+            "1": {
+                "Dish_name": "Pumpkin Pie Spiced Waffles"
+            },
+            "2": {
+                "Dish_name": "Cucumber, Pineapple, Melon Smoothie"
+            }
+        }
+    },
+    "Lunch": {
+        "Calories": "699 Calories",
+        "Dishes": {
+            "1": {
+                "Dish_name": "Avocado and Tomato Tuna Salad"
+            },
+            "2": {
+                "Dish_name": "Sliced bell pepper"
+            }
+        }
+    },
+    "Dinner": {
+        "Calories": "1028 Calories",
+        "Dishes": {
+            "1": {
+                "Dish_name": "Chicken, Bacon, Spinach, & Strawberry Salad"
+            },
+            "2": {
+                "Dish_name": "Zesty Tomato Soup"
+            }
+        }
+    }
+}
